@@ -3,7 +3,7 @@
 # Barcelona-Bikes
 This project consists of a Jupyter Notebook analyzing data from  over 1300 bikes and electric motorbikes in the city of Barcelona.
 
-Check final Jupyter Notebook [here](https://github.com/pggmrt/barcelona-bikes/blob/master/analytics-notebook.ipynb)
+Check final Jupyter Notebook [here](https://github.com/pggmrt/barcelona-bikes/blob/master/notebooks/analytics-scoot.ipynb)
 
 These are some of the results:
 
@@ -25,7 +25,7 @@ As potential charging route optimization, set number of charging employees as nu
 
 
 
-See **notebooks** directory to check every Jupyter Notebook for every provider analyzed.
+See **notebooks** directory to check every Jupyter Notebook analyzing every provider.
 
 
 
