@@ -1,7 +1,7 @@
 
 
 # Barcelona-Bikes
-This project consists of a Jupyter Notebook analyzing data from from over 1300 bikes and electric motorbikes in the city of Barcelona.
+This project consists of a Jupyter Notebook analyzing data from  over 1300 bikes and electric motorbikes in the city of Barcelona.
 
 Check final Jupyter Notebook [here](https://pggmrt.github.io/barcelona-bikes/index.html)
 
@@ -9,7 +9,7 @@ These are some of the results:
 
 #### Heatmap of bikes movement.
 
-  
+
 ![Heatmap](/CARTO_imgs/muv-heatmap.gif)
 
 
