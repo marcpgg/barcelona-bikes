@@ -7,18 +7,19 @@ Check final Jupyter Notebook [here](https://pggmrt.github.io/barcelona-bikes/ind
 
 These are some of the results:
 
-Heatmap of bikes movement.
+#### Heatmap of bikes movement.
 
-
+  
 ![Heatmap](/CARTO_imgs/muv-heatmap.gif)
 
 
-K-means clustering for potential charging optimization, set number of charging employees as number of clusters.
-Here 5 clusters were used.
+#### K-means clustering
+As potential charging route optimization, set number of charging employees as number of clusters. All bikes will be classified into a number of clusters maximizing proximity to each other. Here 5 clusters were used.
 
 
 ![Clustering](/CARTO_imgs/5clusters.png)
 
+#### Weekly usage
 
 ![Weekly usage](/CARTO_imgs/weekly.png)
 
