@@ -8,7 +8,7 @@ import time
 
 while True:
     try:
-        url = 'https://XXXXXXXXXXXXXXXX.com/RestAPI/RestServices/vehicles/in_rectangle?lat1=41.49913121537122&lon1=2.286477237939835&lat2=41.325331221845914&lon2=2.0427180826663975'
+        url = 'https://XXXXXXXXXXXXXXXX/XXX/XX/X/in_rectangle?lat1=41.49913121537122&lon1=2.286477237939835&lat2=41.325331221845914&lon2=2.0427180826663975'
         data = json.loads(requests.get(url).text)
         print ('Muving data loaded successfully.')
 

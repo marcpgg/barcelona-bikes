@@ -8,7 +8,7 @@ import time
 
 while True:
     try:
-        url = 'https://XXXXXXXX.co/api/v1/scooters.json?'
+        url = 'https://XXXXXXXX.XXXXX.json?'
         data = json.loads(requests.get(url).text)
         print ('Scoot data loaded successfully.')
 
