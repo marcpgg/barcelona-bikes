@@ -14,18 +14,15 @@ These are some of the results:
 
 
 #### K-means clustering
-As potential charging route optimization, set number of charging employees as number of clusters. All bikes will be classified into a number of clusters maximizing proximity to each other. Here 5 clusters were used.
+As a potential charging route optimization, set number of charging employees as number of clusters. All bikes will be classified into a number of clusters maximizing proximity to each other. Here 5 clusters were used.
 
 
 ![Clustering](/CARTO_imgs/5clusters.png)
 
-#### Weekly usage
+#### Predictions
 
-![Weekly usage](/CARTO_imgs/weekly.png)
+Aemet weather data.
 
-
-
-See **notebooks** directory to check every Jupyter Notebook analyzing every provider.
 
 
 
@@ -33,10 +30,14 @@ See **notebooks** directory to check every Jupyter Notebook analyzing every prov
 * Python 3
 * Pandas
 * Numpy
+* scipy
+* geopy
+* scikit-learn
+* mpleaflet
 * mtplotlib
 * CARTOframes
 
 ### Acquire Data
 Set up scrapers on any cloud service provider, to scrape data  every 5 minutes from a couple bike providers, and compile it in a single csv file.  See scraping scripts in **scrp** directory.
 
-Previously acquired data was cleaned and merged in a single file. See **cln** directory.
+Previously acquired data was cleaned and merged in a single file. 
