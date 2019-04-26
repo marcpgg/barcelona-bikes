@@ -3,7 +3,9 @@
 
 Scraped live geolocation data from 1300+ bikes and electric motorbikes. Cleaned, resampled and analyzed data from over 7 milion records.
 
-Check out one of the Jupyter Notebooks <a href="https://nbviewer.jupyter.org/github/pggmrt/barcelona-bikes/blob/master/analytics/analytics-muv.ipynb" target="_blank"> here</a>
+If notebook does not render on github, use this [NBviewer link](https://nbviewer.jupyter.org/github/marcpgg/barcelona-bikes/blob/master/analytics/analytics-muv.ipynb).
+
+
 
 ### Data Acquisition
 
