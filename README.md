@@ -9,7 +9,7 @@ If notebook does not render on github, use this [NBviewer link](https://nbviewer
 
 ### Data Acquisition
 
-Set up scrapers on cloud service provider, to scrape data  every 5 minutes from a couple bike providers, and compile it in a single csv file / database.  See scraping scripts in **scrp** directory.
+Quick scripts to scrape  data  every 5 minutes from a couple bike providers, and compile it in a single csv file / database.  See scraping scripts in **scripts** directory.
 
 Previously acquired data was cleaned and merged in a single file. 
 
